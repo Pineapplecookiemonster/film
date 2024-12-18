@@ -3,23 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <link rel="stylesheet" href="oldstyle.css">
-<meta content='width=device-width, initial-scale=1' name='viewport'/>
-<input type="text" id="myInput" autofocus="autofocus" onkeyup="myFunction()" placeholder="Search for Movie.." title="Type in a name">
-    <title>Movie List</title>
+    <title>Movie Search</title>
+    <link rel="stylesheet" href="oldstyle.css">
 </head>
 <body>
-    <h1>My Movie List</h1>
-    <table id="movieTable" class="display">
+    <input type="text" id="myInput" autofocus="autofocus" onkeyup="myFunction()" placeholder="Search for Movie.." title="Type in a name">
+    <table id="myTable">
         <thead>
             <tr>
-                <th>Movie Name</th>
-                <th>Release Date</th>
+                <th>Movie</th>
+                <th>Release Year</th>
                 <th>Date Watched</th>
             </tr>
         </thead>
-        <tbody></tbody>
+        <tbody>
+            <!-- Rows will be dynamically added by JavaScript -->
+        </tbody>
     </table>
 
+    <script src="script.js"></script>
 </body>
 </html>
