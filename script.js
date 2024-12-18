@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     fetch("movies.json")
         .then(response => response.json())
         .then(data => {
-            const tableBody = document.querySelector("#movieTable tbody");
+            const tableBody = document.querySelector("#myTable tbody");
             data.forEach(movie => {
                 const row = `
                     <tr>
