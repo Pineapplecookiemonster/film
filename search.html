@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Torrent Search</title>
+    <style>
+        /* General Page Styling */
+        body {
+            background-color: #121212; /* Black background */
+            color: #ffffff; /* White text */
+            font-family: 'Calibri', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        /* Container Styling */
+        .container {
+            background: #1e1e1e; /* Slightly lighter black for contrast */
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+            width: 90%;
+            max-width: 400px;
+        }
+
+        /* Header */
+        h1 {
+            font-size: 2rem;
+            margin-bottom: 20px;
+            color: #ffcc00; /* Gold for the header text */
+        }
+
+        /* Form Styling */
+        label {
+            font-size: 1rem;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0 20px 0;
+            border-radius: 5px;
+            border: none;
+            outline: none;
+            font-size: 1rem;
+        }
+
+        button {
+            background: #ffcc00; /* Gold button */
+            color: #121212; /* Black text on button */
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        button:hover {
+            background: #ffaa00; /* Darker gold on hover */
+        }
+
+        /* Checkbox Styling */
+        .checkbox-group {
+            text-align: left;
+            margin-top: 20px;
+        }
+
+        .checkbox-group label {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+            font-size: 0.9rem;
+        }
+
+        .checkbox-group input {
+            margin-right: 10px;
+        }
+
+        /* Footer */
+        footer {
+            margin-top: 20px;
+            font-size: 0.8rem;
+            color: #888888; /* Light grey */
+        }
+
+        footer a {
+            color: #ffcc00;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Torrent Search</h1>
+        <form id="searchForm">
+            <label for="searchTerm">Enter Search Term:</label>
+            <input type="text" id="searchTerm" placeholder="Search Movie..." required>
+
+            <div class="checkbox-group">
+                <label><input type="checkbox" id="torrentday" checked> TorrentDay</label>
+                <label><input type="checkbox" id="ipt" checked> IPT</label>
+                <label><input type="checkbox" id="torrentleech" checked> TorrentLeech</label>
+                <label><input type="checkbox" id="anthelion"> Anthelion</label>
+            </div>
+
+            <button type="submit">Search</button>
+        </form>
+        <footer>
+        </footer>
+    </div>
+    <script>
+        // Focus on the search box when the page loads
+        document.getElementById("searchTerm").focus();
+
+        document.getElementById("searchForm").addEventListener("submit", function (e) {
+            e.preventDefault();
+            const searchTerm = encodeURIComponent(document.getElementById("searchTerm").value.replace(/ /g, '+')); // Encode spaces as `+`
+            const searchTermForTorrentLeech = encodeURIComponent(document.getElementById("searchTerm").value.replace(/ /g, '%20')); // Encode spaces as `%20` for TorrentLeech
+
+            // Define the URLs with placeholders for search terms
+            const urls = [];
+
+            if (document.getElementById("torrentday").checked) {
+                urls.push(`https://www.torrentday.com/t?q=${searchTerm}&qf=&25=on&11=on&5=on&3=on&21=on&22=on&13=on&44=on&48=on&1=on#torrents`);
+            }
+
+	    if (document.getElementById("torrentleech").checked) {
+                urls.push(`https://www.torrentleech.org/torrents/browse/index/query/${searchTermForTorrentLeech}`);
+            }
+
+            if (document.getElementById("ipt").checked) {
+                urls.push(`https://www.iptorrents.com/t?72=&87=&77=&101=&89=&90=&96=&6=&48=&54=&62=&38=&68=&20=&100=&7=&q=${searchTerm}&qf=#torrents`);
+            }           
+
+            if (document.getElementById("anthelion").checked) {
+                urls.push(`https://anthelion.me/torrents.php?searchstr=${searchTerm}`);
+            }
+
+            // Open each selected URL in a new tab
+            urls.forEach(url => window.open(url, '_blank'));
+        });
+    </script>
+</body>
+</html>
