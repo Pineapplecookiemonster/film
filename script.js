@@ -9,9 +9,9 @@ document.addEventListener("DOMContentLoaded", function () {
             data.forEach(movie => {
                 const row = `
                     <tr>
-                        <td>${movie.title}</td>
-                        <td>${movie.release_year || "N/A"}</td>
-                        <td>${movie.date_watched || "N/A"}</td>
+                        <td>${movie.Movie Name}</td>
+                        <td>${movie.Release Date || "N/A"}</td>
+                        <td>${movie.Date watched || "N/A"}</td>
                     </tr>
                 `;
                 tableBody.insertAdjacentHTML("beforeend", row);
