@@ -73,3 +73,32 @@ input[type="text"] {
 input[type="text"]:focus {
   outline: none;
 }
+
+/* Reset margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+/* Table container to control width */
+table {
+    width: 100%; /* Ensure table fits within the page width */
+    border-collapse: collapse; /* Remove gaps between table cells */
+    table-layout: fixed; /* Force table columns to stay fixed */
+}
+
+/* Table styling */
+table th, table td {
+    padding: 10px;
+    text-align: center;
+    word-wrap: break-word; /* Ensure text wraps and doesn't overflow */
+}
+
+/* Prevent table from overflowing on small screens */
+@media (max-width: 768px) {
+    table th, table td {
+        font-size: 14px; /* Adjust font size for smaller screens */
+    }
+}
