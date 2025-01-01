@@ -1,7 +1,13 @@
 document.addEventListener("DOMContentLoaded", function () {
-    fetch("movies22.json")
-        .then(response => response.json())
+    fetch("movies.json")
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
         .then(data => {
+            console.log("Fetched JSON data:", data); // Debug: Ensure data is fetched
             populateTable(data);
             enableSearch();
         })
@@ -14,6 +20,11 @@ document.addEventListener("DOMContentLoaded", function () {
 function populateTable(data) {
     const tableBody = document.querySelector("#myTable tbody");
     tableBody.innerHTML = ""; // Clear previous rows if any
+
+    if (!Array.isArray(data)) {
+        console.error("Error: JSON data is not an array.");
+        return;
+    }
 
     data.forEach(movie => {
         const row = `
