@@ -5,7 +5,9 @@ document.addEventListener("DOMContentLoaded", function () {
             populateTable(data);
             enableSearch();
         })
-        .catch(error => console.error("Error loading movie data:", error));
+        .catch(error => {
+            console.error("Error loading movie data:", error.message); // Enhanced error logging
+        });
 });
 
 // Function to populate table with data
@@ -42,7 +44,3 @@ function enableSearch() {
         }
     });
 }
-
-.catch(error => {
-    console.error("Error loading movie data:", error.message);
-});
