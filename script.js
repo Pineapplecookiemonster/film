@@ -1,6 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
-    fetch("movies.json") // Fetch the JSON file
+    console.log("script.js loaded successfully.");
+
+    fetch("movies.json")
         .then(response => {
+            console.log("Fetch response status:", response.status); // Debugging
             if (!response.ok) {
                 throw new Error(`HTTP error! Status: ${response.status}`);
             }
@@ -8,11 +11,11 @@ document.addEventListener("DOMContentLoaded", function () {
         })
         .then(data => {
             console.log("Fetched JSON data:", data); // Debugging
-            populateTable(data); // Populate the table with movie data
-            enableSearch(); // Enable the search functionality
+            populateTable(data);
+            enableSearch();
         })
         .catch(error => {
-            console.error("Error loading movie data:", error.message); // Error handling
+            console.error("Error loading movie data:", error.message); // Enhanced error handling
         });
 });
 
