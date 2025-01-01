@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    fetch("movies.json")
+    fetch("movies22.json")
         .then(response => response.json())
         .then(data => {
             populateTable(data);
