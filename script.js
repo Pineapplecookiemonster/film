@@ -42,3 +42,7 @@ function enableSearch() {
         }
     });
 }
+
+.catch(error => {
+    console.error("Error loading movie data:", error.message);
+});
