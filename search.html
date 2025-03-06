@@ -110,10 +110,13 @@
             <input type="text" id="searchTerm" placeholder="Search Movie..." required>
 
             <div class="checkbox-group">
+		<label><input type="checkbox" id="psb" checked> Open PSB</label>
                 <label><input type="checkbox" id="torrentday" checked> TorrentDay</label>
                 <label><input type="checkbox" id="ipt" checked> IPT</label>
                 <label><input type="checkbox" id="torrentleech" checked> TorrentLeech</label>
                 <label><input type="checkbox" id="anthelion"> Anthelion</label>
+		<label><input type="checkbox" id="cg"> Cinemageddon</label>
+		<label><input type="checkbox" id="ALV"> ALVista (Avista) </label>
             </div>
 
             <button type="submit">Search</button>
@@ -128,10 +131,15 @@
         document.getElementById("searchForm").addEventListener("submit", function (e) {
             e.preventDefault();
             const searchTerm = encodeURIComponent(document.getElementById("searchTerm").value.replace(/ /g, '+')); // Encode spaces as `+`
-            const searchTermForTorrentLeech = encodeURIComponent(document.getElementById("searchTerm").value.replace(/ /g, '%20')); // Encode spaces as `%20` for TorrentLeech
+            const searchTermForTorrentLeech = encodeURIComponent(document.getElementById("searchTerm").value.replace(/ /g, ' ')); // Encode spaces as `%20` for TorrentLeech
 
             // Define the URLs with placeholders for search terms
             const urls = [];
+
+	    if (document.getElementById("psb").checked) {
+                urls.push(`
+http://psb54992:joe13101@psb54992.seedbox.io`);
+            }
 
             if (document.getElementById("torrentday").checked) {
                 urls.push(`https://www.torrentday.com/t?q=${searchTerm}&qf=&25=on&11=on&5=on&3=on&21=on&22=on&13=on&44=on&48=on&1=on#torrents`);
@@ -149,9 +157,19 @@
                 urls.push(`https://anthelion.me/torrents.php?searchstr=${searchTerm}`);
             }
 
+	if (document.getElementById("cg").checked) {
+                urls.push(`https://cinemageddon.net/browse.php?search=${searchTerm}&cat=0`);
+            }
+
+	if (document.getElementById("ALV").checked) {
+                urls.push(`https://avistaz.to/torrents?in=1&search=${searchTerm}&type=0&tags=&uploader=`);
+            }
+
             // Open each selected URL in a new tab
             urls.forEach(url => window.open(url, '_blank'));
         });
     </script>
 </body>
 </html>
+
+
