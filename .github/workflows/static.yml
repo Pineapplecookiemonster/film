@@ -31,13 +31,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Setup Pages
         uses: actions/configure-pages@v3
+
+      # 🟩 TEMP FIX: Explicitly pin upload-artifact to v2 in case it's needed indirectly
+      - name: 🔧 Preload stable upload-artifact
+        uses: actions/upload-artifact@v2
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
           path: '.'
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
