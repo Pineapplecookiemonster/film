@@ -1,25 +1,25 @@
-
-    {
+[
+  {
     "Movie Name": "Thor Ragnarok (cinema) ",
     "Release Date": "2017 ",
     "Date Watched ": "1 Sep 2017 "
-     },
-    {
+  },
+  {
     "Movie Name": "Murder on the orient express (cinema) ",
     "Release Date": "2018 ",
     "Date Watched ": "24 Jan 2018 "
-    },
-   {
+  },
+  {
     "Movie Name": "Black Panther (cinema) ",
     "Release Date": "2018 ",
     "Date Watched ": "23 Jan 2018 "
-   },
-   {
+  },
+  {
     "Movie Name": "Pacific Rim Uprising (cinema) ",
     "Release Date": "2018 ",
     "Date Watched ": "22 Feb 2018 "
-   },
-   {
+  },
+  {
     "Movie Name": "Avengers Infinity War (cinema) ",
     "Release Date": "2018 ",
     "Date Watched ": "27 Apr 2018 "
@@ -28,8 +28,8 @@
     "Movie Name": "A Quiet Place (cinema) ",
     "Release Date": "2018 ",
     "Date Watched ": "6 Jun 2018 "
-   },
-   {
+  },
+  {
     "Movie Name": "Ocean's Eight (cinema) ",
     "Release Date": "2018 ",
     "Date Watched ": "14 Jun 2018 "
@@ -299,3 +299,4 @@
     "Release Date": "2024 ",
     "Date Watched ": "2 Nov 2024 "
   }
+]
