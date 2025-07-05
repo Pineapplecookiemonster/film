@@ -1,0 +1,9 @@
+1. Use https://tableconvert.com/excel-to-json
+2. Ensure no spaces in the names of headers 
+3. ensure Comma after }, preceding last line 
+4. Ensure closing bracket ] is a single one 
+
+not like 
+
+]
+]
