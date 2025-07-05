@@ -1,3 +1,12 @@
+Format:
+
+Index is the main page 
+>> it links to script.js
+>> which it turn links to movies.json
+
+EDIT MOVIES.JSON 
+
+
 1. Use https://tableconvert.com/excel-to-json
 2. Ensure no spaces in the names of headers 
 3. ensure Comma after }, preceding last line 
