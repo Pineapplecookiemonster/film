@@ -4,15 +4,19 @@ Index is the main page
 >> it links to script.js
 >> which it turn links to movies.json
 
-EDIT MOVIES.JSON 
+ONLY EDIT "MOVIES.JSON"
 
 
 1. Use https://tableconvert.com/excel-to-json
 2. Ensure no spaces in the names of headers 
-3. ensure Comma after }, preceding last line 
-4. Ensure closing bracket ] is a single one 
-
+3. ensure that there is no Comma after } at the last line i.e. }, 
+4. Ensure headers are "Movie Name" "Release Date" and "Date Watched" in the J.S. Code 
+5. Ensure closing bracket ] is a single one
 not like 
 
 ]
 ]
+
+
+Updated 3/1/2026 
+- see you next year! 
