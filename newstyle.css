@@ -1,0 +1,160 @@
+/* -----------------------------
+   Mobile clock (kept from yours)
+------------------------------ */
+@media screen and (max-width: 480px) {
+  #clockdiv { font-size: 18px; }
+  #clockdiv > div { padding: 4px; }
+  .smalltext { padding-top: 2px; font-size: 12px; }
+}
+
+/* -----------------------------
+   Base reset
+------------------------------ */
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(255, 255, 255, 0.92);
+}
+
+/* -----------------------------
+   Background (glassmorphism needs contrast)
+------------------------------ */
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(900px 500px at 15% 10%, rgba(255,255,255,0.10), transparent 60%),
+    radial-gradient(900px 500px at 85% 20%, rgba(255,255,255,0.08), transparent 60%),
+    radial-gradient(900px 500px at 50% 95%, rgba(255,255,255,0.06), transparent 60%),
+    linear-gradient(180deg, #121212 0%, #0b0b0b 100%);
+}
+
+/* Optional: make your title look cleaner if it's an h1 */
+h1, h2 {
+  margin: 24px auto 12px;
+  max-width: 1100px;
+  padding: 0 16px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+/* -----------------------------
+   Search input (glass bar)
+------------------------------ */
+input[type="text"] {
+  display: block;
+  width: min(1100px, calc(100% - 32px));
+  margin: 16px auto 18px;
+  padding: 12px 14px;
+
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 12px;
+
+  color: rgba(255,255,255,0.92);
+  font-size: 16px;
+  font-weight: 600;
+
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+
+  box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+}
+
+input[type="text"]::placeholder {
+  color: rgba(255,255,255,0.45);
+  font-weight: 600;
+}
+
+input[type="text"]:focus {
+  outline: none;
+  border-color: rgba(255, 255, 255, 0.28);
+  box-shadow: 0 12px 38px rgba(0,0,0,0.45);
+}
+
+/* -----------------------------
+   Table (glass panel)
+------------------------------ */
+table {
+  width: min(1100px, calc(100% - 32px));
+  margin: 0 auto 28px;
+
+  border-collapse: separate;   /* key for rounded corners */
+  border-spacing: 0;
+
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 16px;
+
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+
+  box-shadow: 0 18px 60px rgba(0,0,0,0.55);
+  overflow: hidden; /* helps rounding with some browsers */
+}
+
+/* Header */
+th {
+  padding: 14px 12px;
+  font-size: 15px;
+  font-weight: 800;
+  letter-spacing: 0.3px;
+  text-transform: none;
+
+  background: rgba(255, 255, 255, 0.10);
+  border-bottom: 1px solid rgba(255,255,255,0.10);
+  color: rgba(255,255,255,0.95);
+
+  /* Optional sticky header (nice on long lists) */
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+/* Cells */
+td {
+  padding: 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  color: rgba(255,255,255,0.88);
+  word-break: break-word;
+}
+
+/* Row hover */
+tr:hover td {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Align columns: Movie left, metadata centred */
+th:nth-child(1), td:nth-child(1) { text-align: left; }
+th:nth-child(n+2), td:nth-child(n+2) { text-align: center; }
+
+/* Column sizing (tuned for your screenshot layout) */
+th:nth-child(1), td:nth-child(1) { width: 55%; }
+th:nth-child(2), td:nth-child(2) { width: 15%; }
+th:nth-child(3), td:nth-child(3) { width: 15%; }
+th:nth-child(4), td:nth-child(4) { width: 15%; }
+
+/* Remove bottom border on last row */
+tr:last-child td { border-bottom: none; }
+
+/* -----------------------------
+   Responsive tweaks
+------------------------------ */
+@media (max-width: 768px) {
+  th { font-size: 13px; padding: 12px 10px; }
+  td { font-size: 13px; padding: 11px 10px; }
+
+  /* If your table gets wide, allow horizontal scroll without breaking layout */
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+@media (max-width: 480px) {
+  input[type="text"] { font-size: 15px; }
+}
