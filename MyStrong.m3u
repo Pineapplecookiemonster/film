@@ -1,0 +1,357 @@
+#EXTM3U
+
+#EXTM3U url-tvg="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg2.xml.gz"
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?33420" group-title="",Welcome
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/620786.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6461.jpg?33420" group-title="",4K: SKY SPORTS F1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290247.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="EPL",===== MAIN STREAMS =====
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/620786.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="EPL",HUB PREMIER 1 4K
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/620786.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="EPL",Canal Plus 4k
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1562591.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="EPL",HUB PREMIER 2 UHD
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/620787.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="EPL",HUB PREMIER 2 FHD
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/620785.ts
+
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?51579" group-title="EPL",SKY SPORTS MAIN EVENTS PURE HD (1)
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1544239.ts
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?ver=13861" group-title="EPL",UK: SKY SPORTS MAIN EVENTS PURE UHD (2) 
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290248.ts
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?ver=13861" group-title="EPL",UK: SKY SPORTS MAIN EVENTS PURE HD (3) 
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/950402.ts
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?ver=13861" group-title="EPL",UK: SKY SPORTS 1 UHD 
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/950400.ts
+
+#EXTINF:0 CUID="744643" tvg-name="Sky Sports 2 ᵁᴴᴰ ᴴᴰᴿ" tvg-id="skysports2.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%202%20UHD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports 2 ᵁᴴᴰ ᴴᴰᴿ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/950399.ts
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?ver=13861" group-title="EPL",UK: SKY SPORTS MAIN EVENTS HEVC (1)
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/950402.ts
+
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?ver=13861" group-title="EPL",UK: SKY SPORTS MAIN EVENTS FHD (3) 
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/621634.ts
+
+#################################################################################
+
+===== EPL CUSTOM =====
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="EPL",PPV EPL Custom 1
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1454430.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="EPL",PPV EPL Custom 2
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1454429.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14927.png?ver=41795" group-title="EPL",PPV EPL Custom 3
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1454428.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394" group-title="EPL",EPL SPECIFIC UHD 1
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/661427.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394" group-title="EPL",EPL SPECIFIC UHD 2
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/661426
+
+###############################################################################
+
+===== EPL OTHERS =====
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="",HUB PREMIER 3 4K
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/620784.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="",HUB PREMIER 4 4K
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/620783.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="",HUB PREMIER 5 4K
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/620782.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="",HUB PREMIER 6 4K
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/620781.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="",HUB PREMIER 7 4K
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/620780.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="",SKY SPORTS PREMIER LEAGUE 
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527637.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="",SKY SPORTS FOOTBALL 
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527635.ts
+
+
+===== TNT SPORTS =====
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?ver=99413" group-title="",UK: TNT SPORT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ (TNT 1)
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1069751.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12011.jpg?94191" group-title="",TNT SPORT HD ◉
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/609659.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13686.jpg?54865" group-title="",TNT 1
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290337.ts
+
+
+===== CHAMPIONS LEAGUE Backups ======
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13686.jpg?54865" group-title="",PARAMOUNT + 1
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1501737.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13686.jpg?54865" group-title="",4K: BEIN 4K ᵁᴴᴰ ³⁸⁴⁰ᴾ (EVENT ONLY)
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1697287.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13686.jpg?54865" group-title="",4K: BEIN 4K ᵁᴴᴰ ³⁸⁴⁰ᴾ ᴺᴹ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1556138.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="",PRIME: UEFA CHAMPIONS LEAGUE ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1536335.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="",PRIME: UEFA CHAMPIONS LEAGUE ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1536334.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" group-title="",PARAMOUNT PLUS
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1501737.ts
+
+
+===== PREMIER LEAGUE BACKUPS =====
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14436.jpg?30348" group-title="",4K: NOW SPORTS PREMIER LEAGUE ᵁᴴᴰ ³⁸⁴⁰ᴾ ᴺᴹ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1556135.ts
+
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/120/6418.jpg?47339" group-title="",NZ: SKY SPORT PREMIER LEAGUE ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1968684.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12261.png?88595" group-title="",NZ: SKY SPORTS PREMIER LEAGUE 4K
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/670268.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="",US: PREMIER LEAGUE TV ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1520110.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="",US: PREMIER LEAGUE TV ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1520109.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394" group-title="",US: PREMIER LEAGUE ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1860593.ts
+
+#EXTINF:-1 tvg-id="bloomberg.us" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394" group-title="",BLOOM 
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1536944.ts
+
+
+
+
+#EXTINF:0 CUID="1493242" tvg-name="24/7 Family Guy" tvg-logo="https://cdn-icons-png.flaticon.com/512/3871/3871021.png" group-title="24/7 Channels",24/7 Family Guy
+http://pro.wd.candycloud-8k.men/live/2d9ae610a3/4caaf88d30/1600074.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13719.png?ver=77394" group-title="",BLOOM 
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/7234.ts
+
+
+
+
+#EXTINF:0 CUID="925078" tvg-name="Sky Sports Main Event ᵁᴴᴰ ᴴᴰᴿ" tvg-id="skysportsmainevent.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Main%20Event%20UHD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports Main Event ᵁᴴᴰ ᴴᴰᴿ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290248.ts
+#EXTINF:0 CUID="1918538" tvg-name="Sky Sports Main Event ᴴᴰ" tvg-id="skysportsmainevent.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Main%20Event%20HD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports Main Event ᴴᴰ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1562535.ts
+#EXTINF:0 CUID="744642" tvg-name="Sky Sports 1 ᵁᴴᴰ ᴴᴰᴿ" tvg-id="skysports1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%201%20UHD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports 1 ᵁᴴᴰ ᴴᴰᴿ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/950400.ts
+#EXTINF:0 CUID="744643" tvg-name="Sky Sports 2 ᵁᴴᴰ ᴴᴰᴿ" tvg-id="skysports2.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%202%20UHD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports 2 ᵁᴴᴰ ᴴᴰᴿ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/950399.ts
+#EXTINF:0 CUID="1918539" tvg-name="Sky Sports F1 ᵁᴴᴰ ᴴᴰᴿ" tvg-id="skysportsf1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20F1%20UHD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports F1 ᵁᴴᴰ ᴴᴰᴿ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/950401.ts
+#EXTINF:0 CUID="744641" tvg-name="Sky Sports F1 ᴴᴰ" tvg-id="skysportsf1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20F1%20HD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports F1 ᴴᴰ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1544243.ts
+#EXTINF:0 CUID="870445" tvg-name="Sky Sports News ᵁᴴᴰ ᴴᴰᴿ" tvg-id="skysportsnews.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20News%20UHD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports News ᵁᴴᴰ ᴴᴰᴿ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/621657.ts
+#EXTINF:0 CUID="870447" tvg-name="Sky Sports Premier League" tvg-id="skysportspremierleague.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Premier%20League%20HD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports Premier League
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/588045.ts
+#EXTINF:0 CUID="870448" tvg-name="Sky Sports Football" tvg-id="skysportsfootball.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Football%20HD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports Football
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527635.ts
+#EXTINF:0 CUID="870455" tvg-name="Sky Sports Cricket" tvg-id="skysportscricket.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Cricket%20HD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports Cricket
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527625.ts
+#EXTINF:0 CUID="870453" tvg-name="Sky Sports Golf" tvg-id="skysportsgolf.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Golf%20HD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports Golf
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527623.ts
+#EXTINF:0 CUID="744655" tvg-name="Sky Sports Tennis" tvg-id="skysportstennis.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Tennis%20HD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports Tennis
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/706975.ts
+#EXTINF:0 CUID="870451" tvg-name="Sky Sports Action" tvg-id="skysportsactionhd.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Action%20HD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports Action
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290216.ts
+#EXTINF:0 CUID="925084" tvg-name="Sky Sports Mix" tvg-id="skysportsmix.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Mix%20HD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports Mix
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/621626.ts
+#EXTINF:0 CUID="744656" tvg-name="Sky Sports +" tvg-id="skysports+.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20+%20HD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports +
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/588042.ts
+#EXTINF:0 CUID="870452" tvg-name="Sky Sports Racing" tvg-id="skysportsracing.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Sky%20Sports%20Racing%20HD.png?raw=true" group-title="🇬🇧 TV Guide (UK)",Sky Sports Racing
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/621627.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="tntsportsultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="TNT Sports",UK: TNT SPORT ULTIMATE (TNT 1)
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1069751.ts
+
+#EXTINF:-1 tvg-id="tntsportsultimate.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/13fost1689746391.png" group-title="TNT Sports",UK: TNT SPORT ULTIMATE (TNT 2)
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/221296.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2270.jpg?52664" group-title="TNT Sports",4K: TNT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ+ (LIVE-EVENT) 1544246
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1544246.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2270.jpg?52664" group-title="",4K: TNT SPORTS ᵁᴴᴰ ³⁸⁴⁰ᴾ (EVENT) 1544247
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1544247.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12011.jpg?94191" group-title="TNT Sports",TNT SPORT HD ◉
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/609659.ts
+
+#EXTINF:-1 tvg-id="tntsports1.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13686.jpg?54865" group-title="TNT Sports",TNT 1
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290337.ts
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?72541" group-title="TNT Sports",UK: TNT SPORT 1 ᴿᴬᵂ
+http://gold.api-cdn.cloud/live/2d9ae610a3/4caaf88d30/716522.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?72541" group-title="TNT Sports",UK: TNT SPORT 1 ᴿᴬᵂ
+http://gold.api-cdn.cloud/live/2d9ae610a3/4caaf88d30/1537390.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?83895" group-title="",NOW: TNT SPORT 1 ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527617.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?83895" group-title="",NOW: TNT SPORT 1 ᴴᴰ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527616.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?12810" group-title="",NOW: TNT SPORT 2 ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527615.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?12810" group-title="",NOW: TNT SPORT 2 ᴴᴰ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527614.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?25220" group-title="",NOW: TNT SPORT 3 ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527613.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?25220" group-title="",NOW: TNT SPORT 3 ᴴᴰ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527612.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?65829" group-title="",NOW: TNT SPORTS 4 ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527611.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?65829" group-title="",NOW: TNT SPORTS 4 ᴴᴰ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1527610.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="",VIP: TNT SPORT 1 ᴴᴰ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290377.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="",VIP: TNT SPORT 2 ᴴᴰ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290376.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="",VIP: TNT SPORT 3 ᴴᴰ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290375.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="",VIP: TNT SPORT 4 ᴴᴰ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290374.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="",####### TNT SPORT ᴴᴰ ʰᵉᵛᶜ #######
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290373.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="",VIP: TNT SPORT 1 ᴴᴰ ʰᵉᵛᶜ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290372.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="",VIP: TNT SPORT 2 ᴴᴰ ʰᵉᵛᶜ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290371.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="",VIP: TNT SPORT 3 ᴴᴰ ʰᵉᵛᶜ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290370.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="",VIP: TNT SPORT 4 ᴴᴰ ʰᵉᵛᶜ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290369.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?81674" group-title="",VIP: TNT SPORTS ULTIMATE ⁴ᵏ & ³⁸⁴⁰ᴾ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290338.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="",VIP: TNT SPORTS 1 ᴿᴬᵂ ⁵⁰ FPS
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290337.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="",VIP: TNT SPORTS 2 ᴿᴬᵂ ⁵⁰ FPS
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290336.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="",VIP: TNT SPORTS 3 ᴿᴬᵂ ⁵⁰ FPS
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290335.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="",VIP: TNT SPORTS 4 ᴿᴬᵂ ⁵⁰ FPS
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290334.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="",####### TNT SPORT ᴿᴬᵂ #######
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290333.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="",VIP: TNT SPORT 1 ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290332.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="",VIP: TNT SPORT 2 ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290331.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="",VIP: TNT SPORT 3 ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290330.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="",VIP: TNT SPORT 4 ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290329.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="",####### TNT SPORT ᴿᴬᵂ ʰᵉᵛᶜ #######
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290328.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="",VIP: TNT SPORT 1 ᴿᴬᵂ ʰᵉᵛᶜ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290327.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="",VIP: TNT SPORT 2 ᴿᴬᵂ ʰᵉᵛᶜ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290326.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="",VIP: TNT SPORT 3 ᴿᴬᵂ ʰᵉᵛᶜ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290325.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?34432" group-title="",VIP: TNT SPORT 4 ᴿᴬᵂ ʰᵉᵛᶜ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290324.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="",####### TNT SPORT ᴿᴬᵂ ᴿᴬᵂ #######
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290323.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="",VIP: TNT SPORT 1 ᴿᴬᵂ ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290322.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="",VIP: TNT SPORT 2 ᴿᴬᵂ ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290321.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="",VIP: TNT SPORT 3 ᴿᴬᵂ ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290320.ts
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?34432" group-title="",VIP: TNT SPORT 4 ᴿᴬᵂ ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1290319.ts
+
+
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/533.png?75225" group-title="",SG: HUB beIN SPORTS 3 ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1968696.ts
+
+#EXTINF:-1 tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/540.png?77278" group-title="",SG: HUB beIN SPORTS 4 ᴿᴬᵂ
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1968695.ts
+
