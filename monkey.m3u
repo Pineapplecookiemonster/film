@@ -1,0 +1,48 @@
+
+#EXTM3U url-tvg="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg6.xml.gz"
+
+#EXTINF:-1 tvg-id="dummy-1148150" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13099.jpg?87470" group-title="Documentaries",DISCOVERY CHANNEL 
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/162375.ts
+
+#EXTINF:-1 tvg-id="dummy-1148151" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?1119" group-title="Documentaries",Discovery: History
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/162388.ts
+
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/618.jpg?21210" group-title="Documentaries",Discovery: Science 
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/162390.ts
+
+
+#EXTINF:-1 tvg-id="discoveryturbo.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6165.jpg?61364" group-title="Documentaries",Discovery: Turbo
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/262727.ts
+
+#EXTINF:-1 tvg-id="animalplanet.uk" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?79811" group-title="Documentaries",Animal Planet
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/262729.ts
+
+#EXTINF:0 CUID="891090" tvg-name="National Geographic" tvg-id="nationalgeographic.uk" tvg-logo="https://logo.m3uassets.com/nationalgeo.png" group-title="UK| Entertainment ᴳᴬᴺᴶᴬ",National Geographic
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/717715.ts
+
+#EXTINF:0 CUID="891096" tvg-name="National Geographic Wild" tvg-id="natgeowild.uk" tvg-logo="https://logo.m3uassets.com/natgeowild.png" group-title="UK| Entertainment ᴳᴬᴺᴶᴬ",National Geographic Wild
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/717709.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?79811" tvg-id="skyhistory.uk" group-title="Documentaries",History Channel
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/162378.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?79811" tvg-id="smithsonianchannel.us" group-title="Documentaries",Smithsonian Channel
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/325877.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?79811" tvg-id="tlc.uk" group-title="Documentaries",TLC: Travel and Living Channel
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/262717.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?79811" tvg-id="crimeinvestigationaustralia.uk" group-title="Documentaries",Crime and Investigation Channel
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/402156.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?79811" tvg-id="400000011" group-title="Documentaries",TV ONE CRIME & JUSTICE
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/1548282.ts
+
+
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/626.png?79811" tvg-id="foodnetwork.us" group-title="Documentaries",Food Network
+http://cf.zustrong1.top/live/d3de26beac/2e4421d0ac/325821.ts
