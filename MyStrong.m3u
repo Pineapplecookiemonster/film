@@ -3,9 +3,7 @@
 #EXTM3U url-tvg="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg6.xml.gz"
 
 
-========= WORLD CUP SPECIAL =================
-
-
+============ WORLD CUP SPECIAL =================
 
 
 #EXTINF:0 CUID="4977993" tvg-name="Now Sports 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-id="tsn4.ca" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Now%20Sports%204K%201.png?raw=true" group-title="🏆 FIFA World Cup",4K TSN
@@ -16,28 +14,34 @@ http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2029749.ts
 http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2029748.ts
 
 
-#EXTINF:0 CUID="4977993" tvg-name="Now Sports 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-id="tsn4.ca" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Now%20Sports%204K%201.png?raw=true" group-title="🏆 FIFA World Cup",CHANNEL 3
+#EXTINF:0 CUID="4977993" tvg-name="Now Sports 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-id="tsn4.ca" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Now%20Sports%204K%201.png?raw=true" group-title="🏆 FIFA World Cup",4K FOX 
 http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2029747.ts
 
+#EXTINF:0 CUID="5261076" tvg-name="FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-id="fox.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Fox%20HD.png?raw=true" group-title="🏆 FIFA World Cup",4K FOX Sports
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2028640.ts
+
+
+#EXTINF:0 CUID="4977993" tvg-name="BBC 1" tvg-id="bbc1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/BBC%20One%20HD.png?raw=true" group-title="🏆 FIFA World Cup",4K BBC
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2028641.ts
 
 
 #EXTINF:0 CUID="4977993" tvg-name="Now Sports 616 ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-id="Now.Sports.4K.616.hk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Now%20Sports%204K%201.png?raw=true" group-title="🏆 FIFA World Cup",NOW SPORTS 1
 http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2028635.ts
 
-
 #EXTINF:0 CUID="4977993" tvg-name="Now Sports 617 ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-id="Now.Sports.4K.617.hk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/Now%20Sports%204K%202.png?raw=true" group-title="🏆 FIFA World Cup",NOW SPORTS 2
 http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2028634.ts
 
-#EXTINF:0 CUID="4977993" tvg-name="FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-id="fox.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Fox%20HD.png?raw=true" group-title="🏆 FIFA World Cup",Fox UHD 1
+#EXTINF:0 CUID="4977993" tvg-name="FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-id="fox.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Fox%20HD.png?raw=true" group-title="🏆 FIFA World Cup",FOX 1 (4K)
 http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2028640.ts
 
-#EXTINF:0 CUID="4977993" tvg-name="FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-id="fox.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Fox%20HD.png?raw=true" group-title="🏆 FIFA World Cup",Fox UHD 2
+#EXTINF:0 CUID="4977993" tvg-name="FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-id="fox.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Fox%20HD.png?raw=true" group-title="🏆 FIFA World Cup",FOX 2 (4K)
 http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2028639.ts
 
-#EXTINF:0 CUID="5261076" tvg-name="FOX ᵁᴴᴰ ³⁸⁴⁰ᴾ" tvg-id="fox.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US/Fox%20HD.png?raw=true" group-title="🏆 FIFA World Cup",FOX Sports UHD
-http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2028640.ts
+#EXTINF:0 CUID="4977993" tvg-name="Fox Sports 1" tvg-id="foxsports1.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US2/Fox%20Sports%201.png?raw=true" group-title="🏆 FIFA World Cup",Fox Sports 1 (HD)
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2028638.ts
 
-
+#EXTINF:0 CUID="4977994" tvg-name="Fox Sports 2" tvg-id="foxsports2.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US2/Fox%20Sports%202.png?raw=true" group-title="🏆 FIFA World Cup",Fox Sports 2 (HD)
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2012599.ts
 
 #EXTINF:0 CUID="4977997" tvg-name="TSN 1" tvg-id="tsn1.ca" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:CA/TSN%201%20HD.png?raw=true" group-title="🏆 FIFA World Cup",TSN 1 UHD 
 http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/414142.ts
@@ -45,41 +49,39 @@ http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/414142.ts
 #EXTINF:0 CUID="4977998" tvg-name="TSN 2" tvg-id="tsn2.ca" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:CA/TSN%202%20HD.png?raw=true" group-title="🏆 FIFA World Cup",TSN 2 UHD
 http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/414141.ts
 
-#EXTINF:0 CUID="4977993" tvg-name="Fox Sports 1" tvg-id="tsn4.ca" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US2/Fox%20Sports%201.png?raw=true" group-title="🏆 FIFA World Cup",TSN 4K/ BBC
-http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2028641.ts
-
-#EXTINF:0 CUID="4978002" tvg-name="BBC 1" tvg-id="bbc1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/BBC%20One%20HD.png?raw=true" group-title="🏆 FIFA World Cup",BBC 1 London UHD
+#EXTINF:0 CUID="4978002" tvg-name="BBC 1" tvg-id="bbc1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/BBC%20One%20HD.png?raw=true" group-title="🏆 FIFA World Cup",BBC 1 London (UHD)
 http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/497001.ts
 
+#EXTINF:0 CUID="4978002" tvg-name="BBC 1" tvg-id="bbc1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/BBC%20One%20HD.png?raw=true" group-title="🏆 FIFA World Cup",BBC 1 South West (UHD)
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/162186.ts
 
-#EXTINF:0 CUID="4978002" tvg-name="BBC 1" tvg-id="bbc1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/BBC%20One%20HD.png?raw=true" group-title="🏆 FIFA World Cup",BBC 1 Northern Ireland (UHD)
-http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/162166.ts
+#EXTINF:0 CUID="4978002" tvg-name="BBC 1" tvg-id="bbc1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/BBC%20One%20HD.png?raw=true" group-title="🏆 FIFA World Cup",BBC 1 Wales FHD
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/162194.ts
 
-#EXTINF:0 CUID="4978002" tvg-name="BBC 1" tvg-id="bbc1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/BBC%20One%20HD.png?raw=true" group-title="🏆 FIFA World Cup",BBC 1 UHD
-http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/162120.ts
-
+#EXTINF:0 CUID="4978005" tvg-name="ITV 1" tvg-id="itv1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/ITV1%20HD.png?raw=true" group-title="🏆 FIFA World Cup",ITV 1 UHD 
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/162209.ts
 
 #EXTINF:0 CUID="4977993" tvg-name="Fox Sports 1" tvg-id="foxsports1.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US2/Fox%20Sports%201.png?raw=true" group-title="🏆 FIFA World Cup",Fox Sports 1 HD 
-http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2028638.ts
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/429590.ts
 
-#EXTINF:0 CUID="4977994" tvg-name="Fox Sports 2" tvg-id="foxsports2.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US2/Fox%20Sports%202.png?raw=true" group-title="🏆 FIFA World Cup",Fox Sports 2 HD
-http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2012599.ts
-
-
-
-#EXTINF:0 CUID="4978005" tvg-name="ITV 1" tvg-id="itv1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/ITV1%20HD.png?raw=true" group-title="🏆 FIFA World Cup",ITV 1 (I) UHD 
-http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/1173049.ts
+#EXTINF:0 CUID="4977993" tvg-name="Fox Sports 1" tvg-id="foxsports2.us" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:US2/Fox%20Sports%201.png?raw=true" group-title="🏆 FIFA World Cup",Fox Sports 2 HD 
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/429589.ts
 
 
-#EXTINF:0 CUID="4978005" tvg-name="ITV 1" tvg-id="itv1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/ITV1%20HD.png?raw=true" group-title="🏆 FIFA World Cup",ITV 1 (II) UHD 
-http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/162209.ts
-#
+#EXTINF:0 CUID="4978002" tvg-name="BBC 1" tvg-id="bbc1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/BBC%20One%20HD.png?raw=true" group-title="🏆 FIFA World Cup",BBC 1 FHD
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2012607.ts
+#EXTINF:0 CUID="4978003" tvg-name="BBC 2" tvg-id="bbc2.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/BBC%20Two%20HD.png?raw=true" group-title="🏆 FIFA World Cup",BBC 2 FHD 
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2012606.ts
+#EXTINF:0 CUID="4978004" tvg-name="BBC TWO" tvg-id="bbctwo.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/BBC%20Two%20HD.png?raw=true" group-title="🏆 FIFA World Cup",BBC TWO
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2012605.ts
 
-#EXTINF:0 CUID="4978039" tvg-name="RTE Two" tvg-id="rtetwo.ie" tvg-logo="https://logo.m3uassets.com/rtetwo.png" group-title="🏆 FIFA World Cup",RTE Two
-http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2012624.ts
+#EXTINF:0 CUID="4978005" tvg-name="ITV 1" tvg-id="itv1.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/ITV1%20HD.png?raw=true" group-title="🏆 FIFA World Cup",ITV 1 HD
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2012604.ts
+
+#EXTINF:0 CUID="4978006" tvg-name="ITV 2" tvg-id="itv2.uk" tvg-logo="https://github.com/K-yzu/Logos/blob/main/TV:UK/ITV2%20HD.png?raw=true" group-title="🏆 FIFA World Cup",ITV 2
+http://cf.zustrong1.top/live/2d9ae610a3/4caaf88d30/2012603.ts
 
 
-#EXTINF:0 CUID="4978039" tvg-name="RTE Two" tvg-id="rtetwo.ie" tvg-logo="h
 
 ===================================
 
